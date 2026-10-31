@@ -1,0 +1,5 @@
+﻿  prakt11_Evsyukov_SP.cpp
+C:\Users\st310-04\Desktop\prakt11_Evsyukov_SP\prakt11_Evsyukov_SP\prakt11_Evsyukov_SP.cpp(44,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\st310-04\Desktop\prakt11_Evsyukov_SP\prakt11_Evsyukov_SP\prakt11_Evsyukov_SP.cpp(108,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\st310-04\Desktop\prakt11_Evsyukov_SP\prakt11_Evsyukov_SP\prakt11_Evsyukov_SP.cpp(125,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  prakt11_Evsyukov_SP.vcxproj -> C:\Users\st310-04\Desktop\prakt11_Evsyukov_SP\x64\Debug\prakt11_Evsyukov_SP.exe
